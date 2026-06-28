@@ -1,1 +1,1 @@
-Sitemap: https://maerig7.github.io/TaylorLabWebsite/sitemap.xml
+Sitemap: http://taylorlab.com/sitemap.xml
