@@ -5,6 +5,6 @@
 
   # maerig7's Website
 
-  Visit **[taylorlab.com](http://taylorlab.com)** 🚀
+  Visit **[maerig7.github.io/TaylorLabWebsite](https://maerig7.github.io/TaylorLabWebsite)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
