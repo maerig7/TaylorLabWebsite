@@ -1,7 +1,7 @@
 ---
-name: John Doe
+name: Ruxandra Molnar
 image: images/photo.jpg
-role: phd
+role: Post Doctoral Researcher
 group: alum
 links:
   github: john-doe
