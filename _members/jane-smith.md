@@ -3,12 +3,10 @@ name: Rebecca Taylor
 image: images/photo.jpg
 role: principal-investigator
 affiliation: University of East Anglia
-aliases:
-  - J. Smith
-  - J Smith
+
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  home-page: https://research-portal.uea.ac.uk/en/persons/rebecca-taylor/
+  orcid: https://orcid.org/0000-0003-3429-3123
 ---
 
-ABout: Rebecca has been a PI for ---  and has . 
+About: Rebecca has been a PI for ---  and has . 
