@@ -16,6 +16,16 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
 {% include list.html data="members" component="portrait" filter="role != 'principal-investigator'" %}
 
+{% include section.html %}
+
+## {% include icon.html icon="fa-solid fa-user-group" %}Alumni
+
+<ul class="alumni-list">
+{% for person in site.data.alumni %}
+  <li>{{ person.name }}</li>
+{% endfor %}
+</ul>
+
 {% include section.html background="images/background.jpg" dark=true %}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
