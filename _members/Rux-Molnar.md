@@ -4,7 +4,7 @@ image: images/photo.jpg
 role: Post Doctoral Researcher
 group: alum
 links:
-  github: john-doe
+  github: 
   Linkedin: 
 ---
 
