@@ -5,6 +5,7 @@ role: Post Doctoral Researcher
 group: alum
 links:
   github: john-doe
+  Linkedin: 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Rux has been a post doctoral researcher for ....
