@@ -1,6 +1,6 @@
 ---
 name: Rebecca Taylor
-image: images/photo.jpg
+image: images/Rebecca.Taylor.jpg
 role: principal-investigator
 affiliation: University of East Anglia
 
