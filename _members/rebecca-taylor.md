@@ -5,7 +5,7 @@ role: principal-investigator
 affiliation: University of East Anglia
 
 links:
-email: Rebecca.C.Taylor@uea.ac.uk
+  email: Rebecca.C.Taylor@uea.ac.uk
   home-page: https://research-portal.uea.ac.uk/en/persons/rebecca-taylor/
   orcid: 0000-0003-3429-3123
 ---

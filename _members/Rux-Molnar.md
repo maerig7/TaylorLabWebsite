@@ -1,11 +1,11 @@
 ---
 name: Ruxandra Molnar
 image: images/rux_molnar.jpg
-role: Post Doctoral Researcher
+role: postdoc
 links:
-email: R.Molnar@uea.ac.uk
+  email: R.Molnar@uea.ac.uk
   github: 
-  Linkedin: https://www.linkedin.com/in/ruxandra-i-molnar/
+  linkedin: https://www.linkedin.com/in/ruxandra-i-molnar/
   orcid: 
 ---
 
