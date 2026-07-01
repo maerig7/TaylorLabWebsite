@@ -1,12 +1,11 @@
 ---
-name: Imogen Clake
+name: Imogen Clarke
 image: images/photo.jpg
-description: PhD Student
-role: PhD Student
+role: phd
 links:
   email: Imogen.Clarke@uea.ac.uk
-  LinkedIn:  
-  OrcidId:   
+  linkedin:  
+  orcid:   
 ---
 
 Imi is interested in undestanding a novel pathway in the UPRER called abu-13...
