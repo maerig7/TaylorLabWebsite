@@ -1,10 +1,11 @@
 ---
 name: Ruxandra Molnar
-image: images/photo.jpg
-role: postdoc
+image: images/rux_molnar.jpg
+role: Post Doctoral Researcher
 links:
   github: 
-  linkedin: 
+  Linkedin: https://www.linkedin.com/in/ruxandra-i-molnar/
 ---
 
 Rux has been a post doctoral researcher for ....
+
