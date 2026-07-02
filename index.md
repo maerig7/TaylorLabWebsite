@@ -1,9 +1,9 @@
 ---
 ---
 
-# maerig7's Website
+# The Taylor Lab
 
-An engaging 1-3 sentence description of your lab.
+We are interested in the molecular mechanisms of ageing specicaly through studying C. elegans. 
 
 {% include section.html %}
 
