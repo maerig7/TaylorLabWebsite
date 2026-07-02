@@ -79,3 +79,16 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   title="Our Team"
   text=text
 %}
+
+{% include section.html %}
+
+## Our Funders
+
+{% capture content %}
+
+{% include figure.html image="images/BBSRC.jpg" caption="BBSRC" %}
+{% include figure.html image="images/NRPDTP.jpg" caption="NRP DTP" %}
+
+{% endcapture %}
+
+{% include grid.html content=content %}
