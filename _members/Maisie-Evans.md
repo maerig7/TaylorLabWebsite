@@ -1,9 +1,9 @@
 ---
 name: Maisie Evans
-image: images/photo.jpg
+image: images/maisie.jpg
 role: phd
 links:
-  email: maisie.evans@uea.ac.uk
+  email: maisie.evans@uea.ac.uc
   linkedin:  www.linkedin.com/in/maisied-evans
   orcid:   
 ---
