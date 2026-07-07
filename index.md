@@ -91,4 +91,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% endcapture %}
 
-{% include grid.html content=content %}
+{% include grid.html style="logos" content=content %}
