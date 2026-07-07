@@ -86,8 +86,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture content %}
 
-{% include figure.html image="images/BBSRC.jpg" caption="BBSRC" %}
-{% include figure.html image="images/NRPDTP.jpg" caption="NRP DTP" %}
+{% include figure.html image="images/BBSRC.jpg" caption="BBSRC" link="https://www.ukri.org/councils/bbsrc/" %}
+{% include figure.html image="images/NRPDTP.jpg" caption="NRP DTP" link="https://biodtp.norwichresearchpark.ac.uk/" %}
 
 {% endcapture %}
 
