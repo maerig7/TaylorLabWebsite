@@ -42,4 +42,11 @@
   display: none;
 }
 
+.grid[data-style=logos] {
+  align-items: center;
+}
+.grid[data-style=logos] .figure-image img {
+  box-shadow: none;
+}
+
 /*# sourceMappingURL=grid.css.map */
