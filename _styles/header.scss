@@ -105,11 +105,16 @@ nav {
 }
 
 nav > a {
-  padding: 5px;
+  padding: 8px 20px;
+  border: 2px solid var(--secondary);
+  border-radius: 999px;
+  font-weight: var(--bold);
+  transition: color var(--transition), border-color var(--transition);
 }
 
 nav > a:hover {
   color: var(--primary);
+  border-color: var(--primary);
 }
 
 header:not([data-big]) {
