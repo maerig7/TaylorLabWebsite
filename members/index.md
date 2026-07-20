@@ -1,13 +1,15 @@
 ---
-title: Team
+title: Members
 nav:
   order: 4
-  tooltip: About our team
+  tooltip: About our members
+redirect_from:
+  - /team/
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}Team
+# {% include icon.html icon="fa-solid fa-users" %}Members
 
-Current team members. 
+Current members. 
 
 {% include section.html %}
 
@@ -26,7 +28,7 @@ Current team members.
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-About our team:
+About our members:
 
 {% include section.html %}
 
