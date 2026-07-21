@@ -3,6 +3,7 @@ title: Members
 nav:
   order: 4
   tooltip: About our members
+  title: People
 redirect_from:
   - /team/
 ---
