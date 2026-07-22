@@ -83,6 +83,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {% include section.html %}
 
 ## Our Funders
+{: .funders-heading }
 
 {% capture content %}
 
