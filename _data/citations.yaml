@@ -1,209 +1,366 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1016/j.patter.2026.101514
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+- id: doi:10.1038/s43587-023-00467-1
+  title: "Olfactory chemosensation extends lifespan through TGF-\u03B2 signaling and\
+    \ UPR activation"
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
-  publisher: Patterns
-  date: '2026-05-01'
-  link: https://doi.org/hbvg3p
-  orcid: 0000-0002-4655-3773
+  - Evandro A. De-Souza
+  - Maximillian A. Thompson
+  - Rebecca C. Taylor
+  publisher: Nature Aging
+  date: '2023-07-27'
+  link: https://doi.org/hcb727
+  orcid: 0000-0003-3429-3123
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2025.06.19.660613
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+- id: doi:10.3389/fragi.2022.1044556
+  title: IRE-1 endoribonuclease activity declines early in C. elegans adulthood and
+    is not rescued by reduced reproduction
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
+  - Evandro A. De-Souza
+  - Nadia Cummins
+  - Rebecca C. Taylor
+  publisher: Frontiers in Aging
+  date: '2022-10-28'
+  link: https://doi.org/hcb728
+  orcid: 0000-0003-3429-3123
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.10.12.511902
+  title: "Olfactory chemosensation extends lifespan through TGF-\u03B2 signaling and\
+    \ UPR activation"
+  authors:
+  - Evandro A. De-Souza
+  - Maximillian A. Thompson
+  - Rebecca C. Taylor
   publisher: openRxiv
-  date: '2025-06-25'
-  link: https://doi.org/g9rfr3
-  orcid: 0000-0002-4655-3773
+  date: '2022-10-12'
+  link: https://doi.org/hcb729
+  orcid: 0000-0003-3429-3123
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1016/j.yexcr.2021.112720
+  title: The regulation of animal behavior by cellular stress responses
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - "Ne\u015Fem P. \xD6zbey"
+  - Maximilian A. Thompson
+  - Rebecca C. Taylor
+  publisher: Experimental Cell Research
+  date: '2021-08-01'
+  link: https://doi.org/hcb73b
+  orcid: 0000-0003-3429-3123
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.1096/fj.202100566
+  title: "The 2021 FASEB Virtual Catalyst Conference on Extracellular and Organismal\
+    \ Proteostasis in Health and Disease, February 3\u20104, 2021"
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: openRxiv
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  - Chen Lior
+  - Francesca Hodge
+  - "Evandro A. De\u2010Souza"
+  - Dimitra Bourboulia
+  - Stuart K. Calderwood
+  - Della David
+  - D. Allan Drummond
+  - Adrienne Edkins
+  - Richard I. Morimoto
+  - Veena Prahlad
+  - Oded Rechavi
+  - Lea Sistonen
+  - Mark Wilson
+  - R. Luke Wiseman
+  - Maurizio Zanetti
+  - Rebecca Taylor
+  - "Ruth Scherz\u2010Shouval"
+  - "Patricija van Oosten\u2010Hawle"
+  publisher: The FASEB Journal
+  date: '2021-05-27'
+  link: https://doi.org/gj8ht9
+  orcid: 0000-0003-3429-3123
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1016/j.devcel.2020.10.024
+  title: "Tyramine Acts Downstream of Neuronal XBP-1s to Coordinate Inter-tissue UPRER\
+    \ Activation and Behavior in C.\_elegans"
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - "Ne\u015Fem P. \xD6zbey"
+  - Soudabeh Imanikia
+  - Christel Krueger
+  - Iris Hardege
+  - Julia Morud
+  - Ming Sheng
+  - William R. Schafer
+  - M. Olivia Casanueva
+  - Rebecca C. Taylor
+  publisher: Developmental Cell
+  date: '2020-12-01'
+  link: https://doi.org/gmqhzx
+  orcid: 0000-0003-3429-3123
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1038/s41589-020-0616-8
+  title: A stress-free stress response
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: openRxiv
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - Nadia Cummins
+  - Rebecca C. Taylor
+  publisher: Nature Chemical Biology
+  date: '2020-07-23'
+  link: https://doi.org/g4g7jf
+  orcid: 0000-0003-3429-3123
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1111/acel.13265
+  title: Mastering organismal aging through the endoplasmic reticulum proteostasis
+    network
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - Rebecca C. Taylor
+  - Claudio Hetz
+  publisher: Aging Cell
+  date: '2020-10-31'
+  link: https://doi.org/hcb73c
+  orcid: 0000-0003-3429-3123
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.1016/j.devcel.2019.12.008
+  title: "Molty-Level Regulation: Lysosomes Participate in Developmental ECM Remodeling\
+    \ in C.\_elegans"
   authors:
-  - Faisal S Alquaddoomi
-  - Joseph T Burke
-  - Lo Sosinski
-  - David A Mayer
-  - Evan P Brenner
-  - Samuel Z Chen
-  - Jacob D Krol
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: openRxiv
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  - Soudabeh Imanikia
+  - Rebecca C. Taylor
+  publisher: Developmental Cell
+  date: '2020-01-01'
+  link: https://doi.org/hcb73d
+  orcid: 0000-0003-3429-3123
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1016/j.cub.2019.06.031
+  title: "Neuronal XBP-1 Activates Intestinal Lysosomes to Improve Proteostasis in\
+    \ C.\_elegans"
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Soudabeh Imanikia
+  - "Ne\u015Fem P. \xD6zbey"
+  - Christel Krueger
+  - M. Olivia Casanueva
+  - Rebecca C. Taylor
+  publisher: Current Biology
+  date: '2019-07-01'
+  link: https://doi.org/hcb73f
+  orcid: 0000-0003-3429-3123
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.celrep.2019.06.057
+  title: XBP-1 Remodels Lipid Metabolism to Extend Longevity
+  authors:
+  - Soudabeh Imanikia
+  - Ming Sheng
+  - Cecilia Castro
+  - Julian L. Griffin
+  - Rebecca C. Taylor
+  publisher: Cell Reports
+  date: '2019-07-01'
+  link: https://doi.org/hcb73g
+  orcid: 0000-0003-3429-3123
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41580-018-0043-9
+  title: An elegant UPR discovery
+  authors:
+  - Rebecca C. Taylor
+  publisher: Nature Reviews Molecular Cell Biology
+  date: '2018-07-20'
+  link: https://doi.org/hcb73h
+  orcid: 0000-0003-3429-3123
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/82_2017_38
+  title: Cell Non-autonomous UPRER Signaling
+  authors:
+  - Soudabeh Imanikia
+  - Ming Sheng
+  - Rebecca C. Taylor
+  publisher: Current Topics in Microbiology and Immunology
+  date: '2017-01-01'
+  link: https://doi.org/hcb73j
+  orcid: 0000-0003-3429-3123
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.brainres.2016.04.017
+  title: Aging and the UPR(ER)
+  authors:
+  - Rebecca C. Taylor
+  publisher: Brain Research
+  date: '2016-10-01'
+  link: https://doi.org/hcb73k
+  orcid: 0000-0003-3429-3123
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/nrm3752
+  title: 'Systemic stress signalling: understanding the cell non-autonomous control
+    of proteostasis'
+  authors:
+  - Rebecca C. Taylor
+  - Kristen M. Berendzen
+  - Andrew Dillin
+  publisher: Nature Reviews Molecular Cell Biology
+  date: '2014-02-21'
+  link: https://doi.org/f5s44t
+  orcid: 0000-0003-3429-3123
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cell.2013.05.042
+  title: XBP-1 Is a Cell-Nonautonomous Regulator of Stress Resistance and Longevity
+  authors:
+  - "Rebecca\_C. Taylor"
+  - Andrew Dillin
+  publisher: Cell
+  date: '2013-06-01'
+  link: https://doi.org/f437qs
+  orcid: 0000-0003-3429-3123
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/B978-0-12-394620-1.00012-6
+  title: Analysis of Aging in Caenorhabditis elegans
+  authors:
+  - Deepti S. Wilkinson
+  - Rebecca C. Taylor
+  - Andrew Dillin
+  publisher: Methods in Cell Biology
+  date: '2012-01-01'
+  link: https://doi.org/fxs9dg
+  orcid: 0000-0003-3429-3123
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/cshperspect.a004440
+  title: Aging as an Event of Proteostasis Collapse
+  authors:
+  - R. C. Taylor
+  - A. Dillin
+  publisher: Cold Spring Harbor Perspectives in Biology
+  date: '2011-02-16'
+  link: https://doi.org/dhzfd5
+  orcid: 0000-0003-3429-3123
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1126/science.1196371
+  title: Phosphorylation of ULK1 (hATG1) by AMP-Activated Protein Kinase Connects
+    Energy Sensing to Mitophagy
+  authors:
+  - Daniel F. Egan
+  - David B. Shackelford
+  - Maria M. Mihaylova
+  - Sara Gelino
+  - Rebecca A. Kohnz
+  - William Mair
+  - Debbie S. Vasquez
+  - Aashish Joshi
+  - Dana M. Gwinn
+  - Rebecca Taylor
+  - John M. Asara
+  - James Fitzpatrick
+  - Andrew Dillin
+  - Benoit Viollet
+  - Mondira Kundu
+  - Malene Hansen
+  - Reuben J. Shaw
+  publisher: Science
+  date: '2011-01-28'
+  link: https://doi.org/brrm2d
+  orcid: 0000-0003-3429-3123
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.immuni.2009.05.007
+  title: Suppression of Interleukin-33 Bioactivity through Proteolysis by Apoptotic
+    Caspases
+  authors:
+  - "Alexander U. L\xFCthi"
+  - Sean P. Cullen
+  - Edel A. McNeela
+  - Patrick J. Duriez
+  - Inna S. Afonina
+  - Clare Sheridan
+  - Gabriela Brumatti
+  - Rebecca C. Taylor
+  - Kristof Kersse
+  - Peter Vandenabeele
+  - Ed C. Lavelle
+  - Seamus J. Martin
+  publisher: Immunity
+  date: '2009-07-01'
+  link: https://doi.org/bzxhfm
+  orcid: 0000-0003-3429-3123
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0005055
+  title: Bicaudal Is a Conserved Substrate for Drosophila and Mammalian Caspases and
+    Is Essential for Cell Survival
+  authors:
+  - Emma M. Creagh
+  - Gabriela Brumatti
+  - Clare Sheridan
+  - Patrick J. Duriez
+  - Rebecca C. Taylor
+  - Sean P. Cullen
+  - Colin Adrain
+  - Seamus J. Martin
+  publisher: PLoS ONE
+  date: '2009-03-30'
+  link: https://doi.org/bgx4jr
+  orcid: 0000-0003-3429-3123
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/nrm2312
+  title: 'Apoptosis: controlled demolition at the cellular level'
+  authors:
+  - Rebecca C. Taylor
+  - Sean P. Cullen
+  - Seamus J. Martin
+  publisher: Nature Reviews Molecular Cell Biology
+  date: '2008-03-01'
+  link: https://doi.org/fvwvrw
+  orcid: 0000-0003-3429-3123
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1074/jbc.m611051200
+  title: Establishing a Blueprint for CED-3-dependent Killing through Identification
+    of Multiple Substrates for This Protease
+  authors:
+  - Rebecca C. Taylor
+  - Gabriela Brumatti
+  - Shu Ito
+  - Michael O. Hengartner
+  - W. Brent Derry
+  - Seamus J. Martin
+  publisher: Journal of Biological Chemistry
+  date: '2007-05-01'
+  link: https://doi.org/cn37j5
+  orcid: 0000-0003-3429-3123
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.molcel.2006.01.034
+  title: Role for CED-9 and Egl-1 as Regulators of Mitochondrial Fission and Fusion
+    Dynamics
+  authors:
+  - Petrina Delivani
+  - Colin Adrain
+  - Rebecca C. Taylor
+  - Patrick J. Duriez
+  - Seamus J. Martin
+  publisher: Molecular Cell
+  date: '2006-03-01'
+  link: https://doi.org/cxq9c9
+  orcid: 0000-0003-3429-3123
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/sj.cdd.4401703
+  title: 'Proteases, proteasomes and apoptosis: breaking Ub is hard to do'
+  authors:
+  - R C Taylor
+  - C Adrain
+  - S J Martin
+  publisher: Cell Death &amp; Differentiation
+  date: '2005-08-11'
+  link: https://doi.org/c9twjd
+  orcid: 0000-0003-3429-3123
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -219,9 +376,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -238,21 +392,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: openRxiv
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
