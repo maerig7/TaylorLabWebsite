@@ -37,31 +37,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include button.html
-  link="members"
-  text="Meet our members"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/groupphoto.jpg"
-  link="members"
-  title="Our Members"
-  text=text
-%}
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
   link="news"
-  text="Read our news"
+  text="Current News"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -76,6 +53,29 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   title="Our News"
   flip=true
   style="bare"
+  text=text
+%}
+
+{% capture text %}
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+{%
+  include button.html
+  link="members"
+  text="Meet the Team"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/groupphoto.jpg"
+  link="members"
+  title="Our Members"
   text=text
 %}
 
