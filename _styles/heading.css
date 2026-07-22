@@ -47,4 +47,9 @@ h6 {
   color: var(--light-gray);
 }
 
+.funders-heading {
+  text-align: center;
+  border-bottom: none;
+}
+
 /*# sourceMappingURL=heading.css.map */
